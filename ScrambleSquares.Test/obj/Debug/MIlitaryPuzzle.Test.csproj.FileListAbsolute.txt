@@ -1,0 +1,10 @@
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MIlitaryPuzzle.Test\bin\Debug\MilitaryPuzzle.Test.dll
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MIlitaryPuzzle.Test\bin\Debug\MilitaryPuzzle.Test.pdb
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MIlitaryPuzzle.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MIlitaryPuzzle.Test\bin\Debug\MilitaryPuzzle.App.exe
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MIlitaryPuzzle.Test\bin\Debug\MilitaryPuzzle.App.pdb
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MIlitaryPuzzle.Test\obj\Debug\MIlitaryPuzzle.Test.csprojResolveAssemblyReference.cache
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MIlitaryPuzzle.Test\obj\Debug\MilitaryPuzzle.Test.dll
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MIlitaryPuzzle.Test\obj\Debug\MilitaryPuzzle.Test.pdb
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MIlitaryPuzzle.Test\bin\Debug\Newtonsoft.Json.dll
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MIlitaryPuzzle.Test\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,8 @@
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MilitaryPuzzle.App\bin\Debug\MilitaryPuzzle.App.exe.config
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MilitaryPuzzle.App\bin\Debug\MilitaryPuzzle.App.exe
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MilitaryPuzzle.App\bin\Debug\MilitaryPuzzle.App.pdb
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MilitaryPuzzle.App\obj\Debug\MilitaryPuzzle.App.csprojResolveAssemblyReference.cache
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MilitaryPuzzle.App\obj\Debug\MilitaryPuzzle.App.exe
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MilitaryPuzzle.App\obj\Debug\MilitaryPuzzle.App.pdb
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MilitaryPuzzle.App\bin\Debug\Newtonsoft.Json.dll
+c:\users\ursin\documents\visual studio 2015\Projects\MilitaryPuzzle.App\MilitaryPuzzle.App\bin\Debug\Newtonsoft.Json.xml
